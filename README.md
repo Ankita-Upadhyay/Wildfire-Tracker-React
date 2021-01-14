@@ -1,3 +1,8 @@
+API Keys:
+You will need to add your Google Maps API key in the Map.js component and register for a NASA API key at https://api.nasa.gov. If you deploy, please move the keys to a safe place
+
+<a href="https://ibb.co/dGWwfWJ"><img src="https://i.ibb.co/KF0p50z/Screen-Shot-2021-01-11-at-8-03-13-PM.png" alt="Screen-Shot-2021-01-11-at-8-03-13-PM" border="0"></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
